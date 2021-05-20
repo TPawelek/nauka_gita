@@ -1,9 +1,7 @@
-# Jakies zmiany 1
+# Studia tester oprogramowania
 
 ![](https://octodex.github.com/images/daftpunktocat-thomas.gif)
 
-* Jakies zmiany 2
-* Jakies zmiany 3
-* Jakas zmiana 4
-* * To jest zmiana  wprowadzona w przegladarce
-*
+* Materiały z zajęć
+* wytkonane ćwiczenia
+* ćwiczenia z kursów na udemy.com
